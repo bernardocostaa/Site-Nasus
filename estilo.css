@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'bell';
+    src: url('BellMT.ttf') format('truetype');
+    font-weight: normal;
+}
+
+*{
+    font-family: 'bell';
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+     box-sizing: border-box;
+}
+
+header{
+    background-image: url(img/pexels-lukas-rychvalsky-670720.png);
+    background-size: cover;
+    display: block;
+    height: 450px;
+}
+ul{
+    position: absolute;
+    left: 65%;
+    padding: 30px;
+}
+a.nav-menu{
+    color: white;
+    text-decoration: none;
+    padding: 12px;
+    font-family: 'bell';
+    font-size: 20px;
+    
+}
+i{
+    position: absolute;
+    left: 93%;
+    padding: 20px;
+    top: 7%;
+    
+}
+#banner{
+    color: black;
+    position: relative;
+    left: 62%;
+    font-size: 50px;
+}
+hr{
+   color;
+}
