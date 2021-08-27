@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 @font-face {
-    font-family: 'bell';
+    font-family: 'bell' ;
     src: url('BellMT.ttf') format('truetype');
     font-weight: normal;
 }
@@ -50,3 +50,19 @@ i{
     position: relative;
     left: 47%;
 }
+h4{
+    font-weight: bolder;
+    font-family: 'bell';
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    
+    
+}
+#chamadas-icon{
+    display: flex;
+    
+    
+    
+}
+
