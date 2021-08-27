@@ -54,15 +54,25 @@ h4{
     font-weight: bolder;
     font-family: 'bell';
     font-size: 20px;
+    margin-left:10px;
+    margin-right: 10px;
     padding: 20px;
-    margin: 20px;
+    width: 50%;
+    text-align: center;
     
-    
+   
 }
 #chamadas-icon{
     display: flex;
+    padding: 20px 20px;
+    align-items: center;
     
-    
+
+}
+#prod{
+    font-size: 40px;
+    text-align: center;
+    margin: 45px;
     
 }
 
