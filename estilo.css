@@ -95,4 +95,8 @@ h3{
     display:flex;
     
 }
+.produtos-comprar{
+    display: block;
+    width: 40%;
+}
 
