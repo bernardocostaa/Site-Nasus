@@ -93,10 +93,30 @@ h3{
 }
 #mostrar-produtos{
     display:flex;
+
     
 }
 .produtos-comprar{
     display: block;
     width: 40%;
+    padding: 50px;
+   
 }
+.produtos-comprar h4{
+ text-align: center;
+ margin-top: 15px;
+ font-size: 18px;
+ font-weight: 600;
+}
+.produtos-comprar p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 5px;
+   }
+.produtos-comprar img{
+       height: 450px;
+       position: relative;
+   }
+
 
