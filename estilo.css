@@ -135,9 +135,10 @@ h3{
        display:inline-block;
        width: 100%;
        height: 500px;
-       
-       
-       
+   }
+   #sobre-dentro img{
+        height: 400px;
+        display: flex;
    }
 
 
