@@ -162,6 +162,17 @@ h3{
        font-size: 28px;
        font-weight: 500;
    }
+   #localizacao{
+       display: block;
+       text-align: center;
+   }
+   #localizacao h1{
+        font-size: 25pt;
+        font-weight: bold;
+        padding-bottom: 20px;
+        padding-top: 15px;
+        
+   }
 
 
 
