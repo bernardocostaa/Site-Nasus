@@ -7,11 +7,12 @@
 }
 
 *{
+    
     font-family: 'bell';
     font-weight: normal;
     margin: 0;
     padding: 0;
-     
+    box-sizing: border-box;
 }
 
 header{
@@ -33,11 +34,13 @@ a.nav-menu{
     font-size: 20px;
     
 }
+
+    
 i{
     position: absolute;
     left: 93%;
-    padding: 20px;
-    top: 7%;
+    padding-top: 25px;
+    top: 3%;
     
 }
 #banner{
@@ -73,7 +76,7 @@ h3{
     display: flex;
     padding: 20px 20px;
     align-items: center;
-    width:31%;
+    min-width:31%;
     justify-content: flex-end;
     
     
@@ -98,7 +101,7 @@ h3{
 }
 .produtos-comprar{
     display: block;
-    width: 40%;
+    max-width: 40%;
     padding: 50px;
    
 }
@@ -115,7 +118,7 @@ h3{
     margin-top: 5px;
    }
 .produtos-comprar img{
-       height: 450px;
+       height: 350px;
        position: relative;
    }
 .produtos-comprar button{
@@ -132,15 +135,15 @@ h3{
    }
    #sobre{
        background-color: #56667a60;
-       width: 100%;
+       max-width: 100%;
        height: 500px;
        display:flex;
        
    }
     
    #sobre-dentro img{
-       height: 500px;
-       width: 600px;
+       max-height: 500px;
+       max-width: 600px;
        padding: 40px ;
        margin-left: 20px;
    }
