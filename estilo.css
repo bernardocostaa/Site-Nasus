@@ -143,10 +143,11 @@ h3{
    }
     
    #sobre-dentro img{
-       max-height: 500px;
-       max-width: 600px;
+       max-height: 700px;
+       max-width: 650px;
        padding: 40px ;
        margin-left: 20px;
+       padding-top: 50px;
    }
    
   
