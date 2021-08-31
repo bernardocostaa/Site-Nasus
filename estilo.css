@@ -176,9 +176,16 @@ h3{
    }
    #localizacao p{
        font-size: 18pt;
+       padding-bottom: 25px;
    }
    .cont-localiza{
        display: flex;
+       
+   }
+   .bloco-localizacao img{
+       position: relative;
+       height: 350px;
+    
    }
 
 
