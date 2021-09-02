@@ -208,6 +208,7 @@ h3{
        border: 1px solid ;
        cursor: pointer;
        margin-top: 10px;
+       margin-bottom: 35px;
     
    }
    #contato{
@@ -224,6 +225,7 @@ h3{
         text-align: center;
         font-size: 35pt;
         text-decoration: none;
+        padding-top: 35px;
         
    }
    .tit-cont h4{
