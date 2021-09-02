@@ -131,6 +131,7 @@ h3{
     position: relative;
     left: 32%;
     border-radius: 20px;
+    cursor: pointer;
 
    }
    #sobre{
@@ -192,6 +193,22 @@ h3{
    }
    .bloco-localizacao h2{
        text-align: center;
+       margin-top: 10px;
+       margin-bottom: 10px;
+       font-weight: bold;
+   }
+   .bloco-localizacao p{
+       text-align: justify;
+       font-size: 14pt;
+       margin-bottom: 15px;
+   }
+   .bloco-localizacao button{
+       font-size: 20px;
+       padding:10px 30px;
+       border: 1px solid ;
+       cursor: pointer;
+       margin-top: 10px;
+    
    }
 
 
