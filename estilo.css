@@ -11,7 +11,6 @@
     font-family: 'bell';
     font-weight: normal;
     margin: 0;
-    padding: 0;
     box-sizing: border-box;
 }
 
@@ -182,10 +181,17 @@ h3{
        display: flex;
        
    }
+   .bloco-localizacao{
+      padding: 0px 50px ;
+   }
+   
    .bloco-localizacao img{
        position: relative;
-       height: 350px;
-    
+       max-width: 100%;
+       height: auto;
+   }
+   .bloco-localizacao h2{
+       text-align: center;
    }
 
 
