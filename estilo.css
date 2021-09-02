@@ -213,12 +213,17 @@ h3{
    #contato{
        background-image: url(img/pexels-olha-ruskykh-7504896.png);
        height: 100%;
-       margin: 25px;
        display: block;
        background-size: cover;
    }
+   .tit-cont{
+       width: 100%;
+   }
+   
    .tit-cont h1{
-        text-align: end;
+        text-align: center;
+        font-size: 35pt;
+        text-decoration: none;
         
    }
    .tit-cont h4{
