@@ -228,11 +228,14 @@ h3{
         font-size: 35pt;
         text-decoration: none;
         padding-top: 35px;
-        margin-right: 450px;
+        margin-right: 250px;
         
         
    }
    .tit-cont h4{
+       font-size: 20pt;
+       text-align:start;
+      
     
 }
    
