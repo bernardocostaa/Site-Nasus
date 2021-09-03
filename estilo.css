@@ -18,7 +18,7 @@ header{
     background-image: url(img/pexels-lukas-rychvalsky-670720.png);
     background-size: cover;
     display: block;
-    height: 450px;
+    height: 800px;
 }
 ul{
     position: absolute;
@@ -219,14 +219,17 @@ h3{
        background-size: cover;
    }
    .tit-cont{
-       width: 100%;
        display: flex;
+       align-items: center;
+       justify-content:flex-start;
+       margin-left: 1100px;
+       margin-top: 20px;
        
    }
    
    .tit-cont-t h1{
         text-align: end;
-        font-size: 35pt;
+        font-size: 50pt;
         text-decoration: none;
         padding-top: 35px;
         margin-right: 250px;
@@ -234,16 +237,25 @@ h3{
         
    }
    .tit-cont h4{
-       font-size: 20pt;
-       text-align:center;
+       font-size: 25pt;
+       padding: 10px;
+       
+       
 }
 .tit-cont img{
-    height: 50px;
-    
+    height: 40px;
+    margin-right: 20px;
     
 }
-   
-       
 
+footer{
+    
+}
+#rodape{
+    
+}  
+.colunas-rod{
+    
+}
 
 
