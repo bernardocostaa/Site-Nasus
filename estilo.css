@@ -220,10 +220,11 @@ h3{
    }
    .tit-cont{
        width: 100%;
+       display: flex;
        
    }
    
-   .tit-cont h1{
+   .tit-cont-t h1{
         text-align: end;
         font-size: 35pt;
         text-decoration: none;
@@ -234,8 +235,11 @@ h3{
    }
    .tit-cont h4{
        font-size: 20pt;
-       text-align:start;
-      
+       text-align:center;
+}
+.tit-cont img{
+    height: 50px;
+    
     
 }
    
