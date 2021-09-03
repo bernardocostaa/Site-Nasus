@@ -168,6 +168,7 @@ h3{
        text-align: center;
    }
    #localizacao h1{
+       
         font-size: 25pt;
         font-weight: bold;
         padding-bottom: 20px;
@@ -219,18 +220,20 @@ h3{
    }
    .tit-cont{
        width: 100%;
+       
    }
    
    .tit-cont h1{
-        text-align: center;
+        text-align: end;
         font-size: 35pt;
         text-decoration: none;
         padding-top: 35px;
+        margin-right: 450px;
+        
         
    }
    .tit-cont h4{
-    text-align: end;
-    ;
+    
 }
    
        
