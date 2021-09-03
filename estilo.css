@@ -217,6 +217,7 @@ h3{
        height: 100%;
        display: block;
        background-size: cover;
+       
    }
    .tit-cont{
        display: flex;
@@ -241,6 +242,7 @@ h3{
        padding: 10px;
        
        
+       
 }
 .tit-cont img{
     height: 40px;
@@ -249,14 +251,22 @@ h3{
 }
 
 footer{
-    
+   padding: 40px 20px; 
 }
-#rodape{
-    
-}  
-.colunas-rod  ul{
-    
-    
+.rodape{
+display: flex;
 }
+#teste{
+    display: flex;
+width: 100%;
+}
+.colunas-rod{
+    width: 33%;
+}
+.colunas-rod ul{
+    list-style-type: none;
+}
+
+
 
 
