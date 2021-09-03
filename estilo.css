@@ -20,7 +20,7 @@ header{
     display: block;
     height: 800px;
 }
-ul{
+#ul-menu{
     position: absolute;
     left: 65%;
     padding: 30px;
@@ -254,8 +254,8 @@ footer{
 #rodape{
     
 }  
-.colunas-rod ul{
-    position: ;
+.colunas-rod  ul{
+    
     
 }
 
