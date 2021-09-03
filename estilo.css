@@ -266,6 +266,10 @@ width: 100%;
 .colunas-rod ul{
     list-style-type: none;
 }
+.colunas-rod h4{
+    font-size: 18pt;
+    padding-bottom: 20px;
+}
 
 
 
