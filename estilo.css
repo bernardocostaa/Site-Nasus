@@ -263,8 +263,9 @@ width: 100%;
 .colunas-rod{
     width: 33%;
 }
-.colunas-rod ul{
-    list-style-type: none;
+.colunas-rod a{
+    color: black;
+    text-decoration: none;
 }
 .colunas-rod h4{
     font-size: 18pt;
