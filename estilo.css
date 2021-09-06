@@ -37,9 +37,6 @@ a.nav-menu{
 }
 a.nav-menu:hover{
    color: rgb(0, 0, 0);
-   
-  
-    
 }
     
 i{
@@ -48,7 +45,7 @@ i{
     padding-top: 25px;
     top: 3%;
     margin-left: 10px;
-    transition: transform .2s; /* Animation */
+    transition:2s; 
 
 }
 i img:hover{
@@ -133,6 +130,12 @@ h3{
 .produtos-comprar img{
        height: 450px;
        position: relative;
+       
+   }
+.produtos-comprar img:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    
    }
 .produtos-comprar button{
     background-color: black;
