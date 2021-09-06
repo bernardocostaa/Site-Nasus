@@ -42,12 +42,14 @@ i{
     top: 3%;
     margin-left: 10px;
     
+    
 }
 #banner{
     color: black;
     position: relative;
     left: 65%;
     font-size: 50px;
+    padding-top: 55px;
 }
 #foto-linha{
     position: relative;
