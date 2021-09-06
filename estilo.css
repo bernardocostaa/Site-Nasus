@@ -33,7 +33,10 @@ a.nav-menu{
     font-size: 20px;
     
 }
-
+a.nav-menu:hover{
+   color: rgb(62, 206, 211);
+   
+}
     
 i{
     position: absolute;
@@ -47,13 +50,13 @@ i{
 #banner{
     color: black;
     position: relative;
-    left: 65%;
+    left: 5%;
     font-size: 50px;
     padding-top: 55px;
 }
 #foto-linha{
     position: relative;
-    left: 65%;
+    left: 5%;
 }
 h3{
     font-weight: bolder;
