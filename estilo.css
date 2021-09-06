@@ -241,6 +241,7 @@ h3{
        height: 100%;
        display: block;
        background-size: cover;
+       padding: 25px;
        
    }
    .tit-cont{
@@ -298,6 +299,9 @@ width: 100%;
     text-align:start;
     padding-inline-start: 0;   
     
+}
+.colunas-rod a:hover{
+    color: rgb(90, 90, 226);
 }
 .colunas-rod h4{
     font-size: 22pt;
