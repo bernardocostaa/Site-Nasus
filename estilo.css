@@ -37,6 +37,7 @@ a.nav-menu{
 }
 a.nav-menu:hover{
    color: rgb(0, 0, 0);
+   transition: 0.4s;
 }
     
 i{
