@@ -12,9 +12,7 @@
     font-weight: normal;
     margin: 0;
     padding: 0;
-    
-   
-    
+    max-width: 1583px;
     
 }
 
@@ -120,7 +118,9 @@ h3{
         .produtos-comprar{
             display: grid;
         }
+        
     }
+    
 
 .chamadas-icon{
     max-width: 100%;
@@ -169,14 +169,14 @@ h3{
    }
 .produtos-comprar img{
        height: 450px;
-       position: relative;
+       
        cursor: pointer;
        
    }
 .produtos-comprar img:hover{
     transform: scale(1.1);
     transition: 0.5s;
-    cursor: pointer;
+   
     
    }
 .produtos-comprar button{
