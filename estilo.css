@@ -5,7 +5,6 @@
     src: url('BellMT.ttf') format('truetype');
     font-weight: normal;
 }
-
 *{
     
     font-family: 'bell';
@@ -25,6 +24,7 @@ header{
     position: absolute;
     left: 65%;
     padding: 30px;
+    
 }
 a.nav-menu{
     color: white;
@@ -147,7 +147,7 @@ h3{
     
 }
 #mostrar-produtos{
-    display:flex;
+    display:block;
 
     
 }
@@ -213,11 +213,9 @@ h3{
    }
     
    #sobre-dentro img{
-       max-height: 700px;
-       max-width: 650px;
-       padding: 40px ;
-       margin-left: 20px;
-       padding-top: 50px;
+       
+       
+       
    }
    
   
@@ -250,7 +248,7 @@ h3{
        padding-bottom: 25px;
    }
    .cont-localiza{
-       display: flex;
+       
        
    }
    .bloco-localizacao{
@@ -300,7 +298,7 @@ h3{
        display: flex;
        align-items: center;
        justify-content:flex-start;
-       margin-left: 1100px;
+       
        margin-top: 20px;
        
    }
