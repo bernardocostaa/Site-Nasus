@@ -13,7 +13,6 @@
     margin: 0;
     padding: 0;
     max-width: 1583px;
-    
 }
 
 header{
@@ -115,7 +114,8 @@ h3{
         #icones{
             display: grid;
         }
-        .produtos-comprar{
+        #mostrar-produtos {
+
             display: grid;
         }
         
@@ -151,7 +151,7 @@ h3{
 }
 .produtos-comprar{
     display: block;
-    max-width: 40%;
+    
     padding: 50px;
    
 }
