@@ -144,9 +144,15 @@ h3{
 #mostrar-produtos{
     display: flex;
 }
-#mostrar-produtos h4{
+.produtos-comprar h4{
     text-align: center;
     font-size: 20px;
+    font-weight: 600;
+}
+.produtos-comprar p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
 }
 @media(max-width:850px){
     #mostrar-produtos{
