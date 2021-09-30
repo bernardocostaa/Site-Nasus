@@ -12,7 +12,7 @@
     font-weight: normal;
     margin: 0;
     padding: 0;
-    max-width: 1583px;
+    max-width: 100%;
 }
 
 header{
@@ -114,11 +114,13 @@ h3{
         #icones{
             display: grid;
         }
-        #mostrar-produtos {
-
-            display: grid;
-        }
         
+    }
+    @media(min-width:850px){
+        .produtos-comprar {
+            
+            flex-wrap: wrap;
+        }
     }
     
 
