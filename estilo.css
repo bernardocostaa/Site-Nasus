@@ -141,7 +141,7 @@ h3{
     
 }
 section{
-   padding-left: 40px;
+   padding: 20px 15px;
 }
 
 #mostrar-produtos{
@@ -180,8 +180,8 @@ section{
 @media(max-width:850px){
     #mostrar-produtos{
         display: grid;
-        width: 300px;
-        padding-left: 50px;
+        width: 100%;
+        
         
         
     }
