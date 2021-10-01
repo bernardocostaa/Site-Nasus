@@ -140,12 +140,18 @@ h3{
     margin: 45px;
     
 }
+section{
+   padding-left: 40px;
+}
 
 #mostrar-produtos{
     display: flex;
-}
-.produtos-comprar img{
     
+}
+.produtos-comprar{
+    flex: 1;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .produtos-comprar h4{
     text-align: center;
@@ -174,6 +180,10 @@ h3{
 @media(max-width:850px){
     #mostrar-produtos{
         display: grid;
+        width: 300px;
+        padding-left: 50px;
+        
+        
     }
 }
 
