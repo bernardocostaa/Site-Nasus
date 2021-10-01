@@ -40,33 +40,7 @@ a.nav-menu:hover{
    color: rgb(0, 0, 0);
    transition: 0.4s;
 }
-/*
-.mobile{
-    display: none;
-    cursor: pointer;
-}
-.mobile div{
-    width: 32px;
-    height: 2px;
-    background: white;
-    margin: 8px;
-}
-@media(max-width: 999px){#ul-menu{
-    position: absolute;
-    top: 8vh;
-    right: 0;
-    width: 50vw;
-    height: 92vh;
-    background: black;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-around;
-}
-.mobile{
-    display: block;
-}
-}
-*/
+
 
 
 i{
@@ -171,18 +145,26 @@ section{
     border: 1px solid transparent;
     margin: 15px;
     border-radius: 15px;
-    position: relative;
+    
     cursor: pointer;
-    left: 25%;
+    
     
     
 }
-@media(max-width:850px){
+.produtos-comprar img{
+    transform: scale(1,1);
+    cursor: pointer;
+}
+.produtos-comprar img:hover{
+    
+    transition: 0,5s;
+}
+@media(max-width:800px){
     #mostrar-produtos{
         display: grid;
         width: 100%;
-        
-        
+        text-align: center;
+        align-items: center;
         
     }
 }
