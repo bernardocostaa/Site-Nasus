@@ -195,6 +195,9 @@ section{
    #fundo{
        padding: 0px;
    }
+   #sobre-dentro1{
+       width: 50%;
+   }
    #sobre-dentro{
        width: 50%;
    }
@@ -215,13 +218,13 @@ section{
    }
    
   
-   #sobre-dentro h1{
+   #sobre-dentro1 h1{
        font-size: min(40px, 7vw);
        text-align: center;
        padding: 25px 25px;
       
    }
-   #sobre-dentro p{
+   #sobre-dentro1 p{
      text-align:start;
      
       margin-left: 30px;
