@@ -246,7 +246,7 @@ section{
        padding-bottom: 25px;
    }
    .cont-localiza{
-       
+     display: flex;  
        
    }
    .bloco-localizacao{
