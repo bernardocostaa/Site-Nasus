@@ -199,14 +199,8 @@ section{
        width: 50%;
    }
    
-}
-   @media(max-width:600px){
+
    
-    #sobre-dentro{
-        display: grid;
-    }
-    
-   }
     
    
     
@@ -223,16 +217,17 @@ section{
    
   
    #sobre-dentro h1{
-       font-size: 40px;
+       font-size: min(40px, 7vw);
        text-align: center;
        padding: 25px 25px;
       
    }
    #sobre-dentro p{
-     text-align: justify;
+     text-align:start;
+     
       margin-left: 30px;
       margin-right: 30px;
-       font-size: 25px;
+       font-size: min(28px, 4.5vw);
        font-weight: 500;
    }
    #localizacao{
