@@ -246,6 +246,7 @@ section{
        padding-bottom: 25px;
    }
    .cont-localiza{
+       
      display: flex;  
        
    }
@@ -362,8 +363,6 @@ width: 100%;
     padding-bottom: 20px;
     text-align: start;
 }
-
-
 
 
 
