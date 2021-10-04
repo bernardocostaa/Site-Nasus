@@ -248,11 +248,23 @@ section{
        font-size: 18pt;
        padding-bottom: 25px;
    }
+   
+    
+
    .cont-localiza{
        
      display: flex;  
        
    }
+   @media(max-width:800px){
+    .cont-localiza{
+        display: grid;
+        width: 100%;
+        text-align: center;
+        align-items: center;
+        
+    }
+}
    .bloco-localizacao{
       padding: 0px 50px ;
    }
@@ -366,6 +378,4 @@ width: 100%;
     padding-bottom: 20px;
     text-align: start;
 }
-
-
 
